@@ -352,7 +352,7 @@
 
                     
                     <h4 class="mt-5 badge text-bg-warning col-3">
-                        友情链接
+                        主要站点
                     </h4>
                     {{-- 友情链接循环 --}}
                     <div class="row">
