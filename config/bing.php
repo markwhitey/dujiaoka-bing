@@ -7,7 +7,7 @@ return [
     // banner首页广告位
     "banner"=>[
         // 留空不开启
-        "img" => "/assets/bing/img/banner1.png",
+        "img" => "/assets/bing/img/banner.png",
         // 填写完整的网址
         "a" => "/"
     ],
@@ -23,13 +23,13 @@ return [
     "zz"=>"1",
 
     // 站长头像     留空不开启
-    "zz_img" => "/assets/bing/img/头像.jpg",
+    "zz_img" => "/assets/bing/img/bear.png",
     // 站长名称     留空默认站点名称
-    'zz_name' => '冰冰',
+    'zz_name' => 'Bear',
     // 站长信息     留空无信息
     "zz_xx" => [
         // 需要增加信息 按下列格式
-        "1"=>"在线时间：早8-晚10",
+        "1"=>"有问题随时联系~",
     ],
 
 
@@ -37,8 +37,8 @@ return [
 
     // 联系方式
     "lx" => [
-        "1" => 'https://t.me/xxx,售后群',
-        "2" => 'https://qq.com,客服',
+        "1" => 'https://t.me/bearup,Telegram',
+        "2" => 'mr42000,WeChat',
     ],
 
 
@@ -55,8 +55,8 @@ return [
 
     // 友情链接
     'yq'=>[
-        '1'=>['测试1','http://www.github.com/binglog'],
-        '2'=>['测试','http://www.github.com/binglog']
+        '1'=>['ChatGPT 镜像地址','https://cws.beary.in/'],
+        '2'=>['Telegram 频道','https://t.me/bear_note']
     ],
 
 ];
